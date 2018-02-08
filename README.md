@@ -1,6 +1,6 @@
 # helpful-links
-Just some links I found helpful
-
+Just some links that I found helpful   
+Updated: 2/7/2018   
 [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)  
 
 [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
