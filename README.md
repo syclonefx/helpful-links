@@ -10,3 +10,5 @@ Updated: 2/7/2018
 [https://www.atlassian.com/git/tutorials/gitignore#personal-git-ignore-rules](https://www.atlassian.com/git/tutorials/gitignore#personal-git-ignore-rules)  
 
 [https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)  
+
+[https://github.com/github/gitignore](https://github.com/github/gitignore)   
