@@ -1,6 +1,6 @@
 # helpful-links
 Just some links that I found helpful   
-Updated: 8/1/2018   
+Updated: 1/23/2019   
 [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)  
 
 [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
@@ -12,3 +12,5 @@ Updated: 8/1/2018
 [https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)  
 
 [https://github.com/github/gitignore](https://github.com/github/gitignore)   
+
+[https://github.com/licenses/license-templates/tree/master/templates](https://github.com/licenses/license-templates/tree/master/templates)   
