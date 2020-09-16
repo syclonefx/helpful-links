@@ -3,6 +3,16 @@
 [https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)   
 ### Bitbucket .gitignore tutorials
 [https://www.atlassian.com/git/tutorials/gitignore](https://www.atlassian.com/git/tutorials/gitignore)   
+### Merge development branch with master
+[https://stackoverflow.com/questions/14168677/merge-development-branch-with-master](https://stackoverflow.com/questions/14168677/merge-development-branch-with-master)   
+### Git: Delete a branch (local or remote)
+[https://makandracards.com/makandra/621-git-delete-a-branch-local-or-remote](https://makandracards.com/makandra/621-git-delete-a-branch-local-or-remote)   
+### Delete forked repo from GitHub
+[https://stackoverflow.com/questions/11302639/delete-forked-repo-from-github](https://stackoverflow.com/questions/11302639/delete-forked-repo-from-github)   
+### Adding a remote
+[https://help.github.com/en/articles/adding-a-remote](https://help.github.com/en/articles/adding-a-remote)   
+
+---
 ### Clone a Git
 ```
 git clone git@github.com:syclonefx/pixel-city.git
@@ -16,31 +26,30 @@ git add -a
 ```
 git commit -m “<INSERT MESSAGE HERE>”
 ```
-Status
+### Status
 ```
 git status
 ```
-Pull
+### Pull
 ```
 git pull origin <BRANCH NAME>
 ```
-Push
+### Push
 ```
 git push origin <BRANCH NAME>
 ```
-Check out a brach: 
+### Check out a brach
 ```
 git checkout <BRANCH NAME>
 ```
-Create a new branch: 
+### Create a new branch
 ```
 git checkout -b <BRANCH NAME>
 ```
-View Branches
+### View Branches
 ```
 git branch
-```
-[https://stackoverflow.com/questions/14168677/merge-development-branch-with-master](https://stackoverflow.com/questions/14168677/merge-development-branch-with-master)   
+```  
 ### Merge
 ```
 git merge
@@ -48,7 +57,6 @@ git merge master
 git checkout master
 git merge <PREVIOUS BRANCH NAME> 
 ```
-[https://makandracards.com/makandra/621-git-delete-a-branch-local-or-remote](https://makandracards.com/makandra/621-git-delete-a-branch-local-or-remote)   
 ### Delete local branch
 ```
 git branch -d <BRANCH NAME>
@@ -57,15 +65,12 @@ git branch -d <BRANCH NAME>
 ```
 git push origin —delete <BRANCH NAME>
 ```
-[https://stackoverflow.com/questions/11302639/delete-forked-repo-from-github](https://stackoverflow.com/questions/11302639/delete-forked-repo-from-github)   
-[https://help.github.com/en/articles/adding-a-remote](https://help.github.com/en/articles/adding-a-remote)   
 ### Add a remote repo to a local repo
 ```
 git remote add origin <URL of remote>
 git fetch origin
 git pull origin master
 ```
-
 ### Verify remote 
 ```
 git remote -v
