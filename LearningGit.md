@@ -19,7 +19,7 @@ git init
 ```
 ### Clone a Git
 ```
-git clone git@github.com:syclonefx/pixel-city.git
+git clone git@github.com:syclonefx/helpful-links-and-info.git
 ```
 ## Add, commit, pull, push
 ### Add all files to repo 
