@@ -13,6 +13,10 @@
 [https://help.github.com/en/articles/adding-a-remote](https://help.github.com/en/articles/adding-a-remote)   
 
 ---
+### Initializing a git repo
+```
+git init
+```
 ### Clone a Git
 ```
 git clone git@github.com:syclonefx/pixel-city.git
@@ -74,4 +78,8 @@ git pull origin master
 ### Verify remote 
 ```
 git remote -v
+```
+### Removing a Cached File
+```
+git rm --cached <NAME OF FILE>
 ```
